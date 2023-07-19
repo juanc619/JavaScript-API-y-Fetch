@@ -1,0 +1,6 @@
+[
+    { "id": "silla", "nombre": "Silla", "precio": 150 },
+    { "id": "sillon", "nombre": "Sillón", "precio": 250 },
+    { "id": "puerta", "nombre": "Puerta", "precio": 350 },
+    { "id": "ventana", "nombre": "Ventana", "precio": 450 }
+]
